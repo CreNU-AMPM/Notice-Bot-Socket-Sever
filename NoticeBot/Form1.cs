@@ -76,7 +76,7 @@ namespace NoticeBot
 
             server.Start(); // 서버 시작
 
-            DisplayText(">> Server Started");
+            DisplayText(">> Server");
             while (true)
 
             {
@@ -150,7 +150,7 @@ namespace NoticeBot
         }
 
 
-
+        string contextall;
         private void OnReceived(string message, string user_name) // cleint로 부터 받은 데이터
 
         {
@@ -165,11 +165,15 @@ namespace NoticeBot
                 SendMessageAll("leaveChat", user_name, true);
 
             }
-
             else
             {
 
-                string displayMessage = "From client : " + user_name + " : " + message;
+                string displayMessage = message;
+                string name = message.Substring(message.IndexOf("|")+1);
+                string context = message.Substring(0, message.IndexOf("|"));
+
+                
+                katalkactive.KatalkSend(name, context, false, null);
 
                 DisplayText(displayMessage); // Server단에 출력
 
@@ -188,8 +192,6 @@ namespace NoticeBot
             foreach (var pair in clientList)
 
             {
-
-                date = DateTime.Now.ToString("yyyy.MM.dd. HH:mm:ss"); // 현재 날짜 받기
 
 
 
@@ -211,7 +213,7 @@ namespace NoticeBot
 
                     else
 
-                        buffer = Encoding.Unicode.GetBytes("[ " + date + " ] " + user_name + " : " + message);
+                        buffer = Encoding.Unicode.GetBytes(user_name + " : " + message);
 
                 }
 

@@ -24,3 +24,16 @@ C:\Users\garbi\Documents\GitHub\NoticeBot-Kakao-Desktop\NoticeBot\obj\Debug\Noti
 C:\Users\garbi\Documents\GitHub\NoticeBot-Kakao-Desktop\NoticeBot\obj\Debug\NoticeBot.csproj.CopyComplete
 C:\Users\garbi\Documents\GitHub\NoticeBot-Kakao-Desktop\NoticeBot\obj\Debug\NoticeBot.exe
 C:\Users\garbi\Documents\GitHub\NoticeBot-Kakao-Desktop\NoticeBot\obj\Debug\NoticeBot.pdb
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Debug\NoticeBot.exe.config
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Debug\NoticeBot.exe
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Debug\NoticeBot.pdb
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Debug\PInvoke.Windows.Core.dll
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Debug\PInvoke.Windows.Core.xml
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.Form1.resources
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.Properties.Resources.resources
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.csproj.GenerateResource.cache
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.csproj.CoreCompileInputs.cache
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.csproj.CopyComplete
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.exe
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.pdb
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Debug\NoticeBot.csprojAssemblyReference.cache

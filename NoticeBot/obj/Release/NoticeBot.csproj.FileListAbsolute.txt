@@ -1,0 +1,13 @@
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Release\NoticeBot.exe.config
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Release\NoticeBot.exe
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Release\NoticeBot.pdb
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Release\PInvoke.Windows.Core.dll
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\bin\Release\PInvoke.Windows.Core.xml
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.csprojAssemblyReference.cache
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.Form1.resources
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.Properties.Resources.resources
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.csproj.GenerateResource.cache
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.csproj.CoreCompileInputs.cache
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.csproj.CopyComplete
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.exe
+C:\Users\garbi\Documents\GitHub\Notice-Bot-Socket-Sever\NoticeBot\obj\Release\NoticeBot.pdb
