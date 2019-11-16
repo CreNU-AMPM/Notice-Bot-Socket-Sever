@@ -34,19 +34,7 @@ namespace NoticeBot
             t.Start();
 
         }
-        public void Button1_Click(object sender, EventArgs e)
-        {
-            string name = textBox1.Text;
-            string context = textBox2.Text;
-            if (image_file == string.Empty)
-            {
-                katalkactive.KatalkSend(name, context, false, null);
-            }
-            else
-            {
-                katalkactive.KatalkSend(name, context, true, image_file);
-            }
-        }
+
         private void Button2_Click(object sender, EventArgs e)
         {
             OpenFileDialog dialog = new OpenFileDialog();
